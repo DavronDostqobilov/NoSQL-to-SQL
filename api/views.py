@@ -1,6 +1,6 @@
 from django.http import HttpRequest, JsonResponse
 from .models import Smartphones
-# import json
+import json
 # from tinydb import TinyDB, Query
 # db = TinyDB('api/db.json', indent=4)
 # query = Query()

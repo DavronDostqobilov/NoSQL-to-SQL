@@ -1375,7 +1375,7 @@
             "price":799.0,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/613Os2k0a2L._SL1500_.jpg",
             "color":"Ocean Blue",
-            "memory":"3+32GB",
+            "memory":"32GB",
             "RAM":"8GB"
         },
         "2":{
@@ -1402,7 +1402,7 @@
             "price":988.9,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/613Os2k0a2L._SL1500_.jpg",
             "color":"Ocean Blue",
-            "memory":"2+16GB",
+            "memory":"16GB",
             "RAM":"8GB"
         },
         "5":{
@@ -1420,7 +1420,7 @@
             "price":1019.3,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61nzw1i2taL._SL1500_.jpg",
             "color":"Ocean Blue",
-            "memory":"4+64GB",
+            "memory":"64GB",
             "RAM":"8GB"
         },
         "7":{
@@ -1429,7 +1429,7 @@
             "price":1831.2,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/816RTtou9zL._SL1500_.jpg",
             "color":"Gradation Blue",
-            "memory":"4+64 GB",
+            "memory":"64 GB",
             "RAM":"8GB"
         },
         "8":{
@@ -1438,7 +1438,7 @@
             "price":1811.8,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61nzw1i2taL._SL1500_.jpg",
             "color":"Ocean Blue",
-            "memory":"3+32GB",
+            "memory":"32GB",
             "RAM":"8GB"
         },
         "9":{
@@ -1456,7 +1456,7 @@
             "price":1305.5,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/71rFOsegqqL._SL1500_.jpg",
             "color":"Charcoal Black",
-            "memory":"4+64GB",
+            "memory":"64GB",
             "RAM":"8GB"
         },
         "11":{
@@ -1474,7 +1474,7 @@
             "price":1663.5,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/816RTtou9zL._SL1500_.jpg",
             "color":"Gradation Blue",
-            "memory":"6+128 GB",
+            "memory":"128 GB",
             "RAM":"8GB"
         },
         "13":{
@@ -1483,7 +1483,7 @@
             "price":1882.3,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/81Ir1ZnwJsL._SL1500_.jpg",
             "color":"Gradation Black",
-            "memory":"4+64 GB",
+            "memory":"64 GB",
             "RAM":"8GB"
         },
         "14":{
@@ -1510,7 +1510,7 @@
             "price":765.8,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/61vPPE0qssL._SL1500_.jpg",
             "color":"Charcoal Black",
-            "memory":"3+32GB",
+            "memory":"32GB",
             "RAM":"8GB"
         },
         "17":{
@@ -1528,7 +1528,7 @@
             "price":894.8,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/81Ir1ZnwJsL._SL1500_.jpg",
             "color":"Gradation Black",
-            "memory":"6+128 GB",
+            "memory":"128 GB",
             "RAM":"8GB"
         },
         "19":{
@@ -1537,7 +1537,7 @@
             "price":1195.2,
             "img_url":"https://images-na.ssl-images-amazon.com/images/I/71rFOsegqqL._SL1500_.jpg",
             "color":"Charcoal Black",
-            "memory":"3+32GB",
+            "memory":"32GB",
             "RAM":"8GB"
         },
         "20":{
